@@ -2,7 +2,7 @@
   "model": {
     "type" : "chatgpt",
     "openai": {
-      "api_key": "YOUR API KEY",
+      "api_key": "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",
       "api_base": "",
       "model": "gpt-3.5-turbo",
       "proxy": "",
@@ -27,7 +27,7 @@
     }
   },
   "channel": {
-    "type": ["terminal"],
+    "type": ["http"],
     "single_chat_prefix": ["bot", "@bot"],
     "single_chat_reply_prefix": "[bot] ",
     "group_chat_prefix": ["@bot"],
@@ -71,8 +71,8 @@
 
     "http": {
       "image_create_prefix": ["画", "draw", "Draw"],
-      "http_auth_secret_key": "6d25a684-9558-11e9-aa94-efccd7a0659b",
-      "http_auth_password": "6.67428e-11",
+      "http_auth_secret_key": "6d25a684-9558-12e9-aa94-efccd7a0659c",
+      "http_auth_password": "123456",
       "port": "80"
     },
 
